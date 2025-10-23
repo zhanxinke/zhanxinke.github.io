@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year Ph.D. student at the <a href='https://www.mpu.edu.mo/'>**Macao Polytechnic University (MPU)**</a>, Faculty of Applied Sciences. My research focuses on protein–peptide interactions and computational peptide design. I am supervised by .<a href='https://cbbio.online/shirleysiu/'>**Shirley W. I. Siu**</a> , and I am a member of the <a href='https://cbbio.online/'>**Computational Biology and Bioinformatics (CBBio) Lab**</a>.
+I am a second-year Ph.D. student at the <a href='https://www.mpu.edu.mo/'>**Macao Polytechnic University (MPU), Faculty of Applied Sciences**</a>. My research focuses on protein–peptide interactions and computational peptide design. I am supervised by <a href='https://cbbio.online/shirleysiu/'>**Shirley W. I. Siu**</a> , and I am a member of the <a href='https://cbbio.online/'>**Computational Biology and Bioinformatics (CBBio) Lab**</a>.
 
 For more information about our research, please visit our group website.
 

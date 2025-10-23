@@ -17,11 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a 2nd-year Phd student from the <a href='https://www.mpu.edu.mo/'>**Macao Polytechnic University (MPU)**</a> Faculty of Applied Science. My research interests include protein-peptide interaction and peptide design.
+I am a second-year Ph.D. student at the <a href='https://www.mpu.edu.mo/'>**Macao Polytechnic University (MPU)**</a>, Faculty of Applied Sciences. My research focuses on protein–peptide interactions and computational peptide design. I am supervised by .<a href='https://cbbio.online/shirleysiu/'>**Shirley W. I. Siu**</a> , and I am a member of the <a href='https://cbbio.online/'>**Computational Biology and Bioinformatics (CBBio) Lab**</a>.
+
+For more information about our research, please visit our group website.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
+- *2025.10*: &nbsp;🎉🎉 A paper is submitted to **ChemRxiv**.
 - *2025.08*: &nbsp;🎉🎉 A paper is accepted by **Digital Discovery** [<span style="color:red">IF:5.6, JCR Q1</span>]
 - *2025.07*: &nbsp;🎉🎉 A conference paper is accepted by **the 2025 International Conference on Intelligent Computing [ICIC 2025, <span style="color:red">CCF-C</span>]**
 - *2025.03*: &nbsp;🎉🎉 A paper **[Liu et al., 2025]** is accepted by **Cell Reports Physical Science (CRPS)** [<span style="color:red">IF:7.3, JCR Q1</span>]
@@ -29,7 +32,7 @@ I am a 2nd-year Phd student from the <a href='https://www.mpu.edu.mo/'>**Macao P
 # 📝 Publications 
 Selected publications are listed below, focusing on some research tasks: Drug-target interaction prediction, anticancer peptide prediction....
 
-## 2025 
+## 2025
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"><em>Digital Discovery</em></div><img src='images/MAARDTI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

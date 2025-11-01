@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xinke Zhan"
+title                    : "zhanxinke"
 description              : "Focusing on Protein-peptide prediction and peptide design "
-repository               : "torchzhan.github.io"
+repository               : "zhanxinke.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics

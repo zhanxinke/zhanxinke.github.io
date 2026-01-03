@@ -1,3 +1,6 @@
+<!--
+ * @Author: X
+-->
 ---
 permalink: /
 title: ""
@@ -22,7 +25,8 @@ I am a second-year Ph.D. student at the <a href='https://www.mpu.edu.mo/'>**Maca
 For more information about our research, please visit our group website.
 
 # 🔥🔥 News
-- *2025.12*: &nbsp;🎉🎉 A paper **[Ma et al., 2025]** is accepted by **Engineering Applications of Artificial Intelligence** [<span style="color:red">IF:8.0, JCR Q1</span>]
+- *2026.01*: &nbsp;🎉🎉 A paper **[Ma et al., 2025]** is published by **Engineering Applications of Artificial Intelligence (EAAI)** [<span style="color:red">IF:8.0, JCR Q1</span>]
+- *2025.12*: &nbsp;🎉🎉 A paper **[Ma et al., 2025]** is accepted by **Engineering Applications of Artificial Intelligence (EAAI)** [<span style="color:red">IF:8.0, JCR Q1</span>]
 - *2025.10*: &nbsp;🎉🎉 A paper is submitted to **ChemRxiv**.
 - *2025.08*: &nbsp;🎉🎉 A paper is accepted by **Digital Discovery** [<span style="color:red">IF:5.6, JCR Q1</span>]
 - *2025.07*: &nbsp;🎉🎉 A conference paper is accepted by **the 2025 International Conference on Intelligent Computing [ICIC 2025, <span style="color:red">CCF-C</span>]**
@@ -61,9 +65,10 @@ Selected publications are listed below, focusing on some research tasks: Drug-ta
 </div>
 </div>
 
-
+## 2026
 - Xiangyu MA. [CrossToGene: A bidirectional cross-modality interaction framework for predicting spatial gene expression from histopathological images](https://www.sciencedirect.com/science/article/pii/S0952197625037194),<em>**Engineering Applications of Artificial Intelligence (EAAI)**</em>, 2026.01.
 
+## 2025
 - Tiantao Liu. [Data-driven revolution of enzyme catalysis from the perspective of reactions, pathways, and enzymes](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(25)00065-7), <em>**Cell Reports Physical Science (CRPS)**</em>, 2025.03.
 
 # 🎖 Honors and Awards

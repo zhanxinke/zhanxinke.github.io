@@ -1,6 +1,3 @@
-<!--
- * @Author: X
--->
 ---
 permalink: /
 title: ""

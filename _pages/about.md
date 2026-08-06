@@ -17,12 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year Ph.D. student at the <a href='https://www.mpu.edu.mo/'>**Macao Polytechnic University (MPU), Faculty of Applied Sciences**</a>. My research focuses on protein–peptide interactions and computational peptide design. I am supervised by <a href='https://cbbio.online/shirleysiu/'>**Shirley W. I. Siu**</a> , and I am a member of the <a href='https://cbbio.online/'>**Computational Biology and Bioinformatics (CBBio) Lab**</a>.
+I am a second-year Ph.D. student at the <a href='https://www.mpu.edu.mo/'>**Macao Polytechnic University (MPU), Faculty of Applied Sciences,**</a> supervised by <a href='https://cbbio.online/shirleysiu/'>**Associate Professor Shirley W. I. Siu**</a>. My research focuses on protein–peptide interactions and computational peptide design. 
 
-For more information about our research, please visit our group website.
+For more information about our research, please visit our group web-<a href='https://cbbio.online/'>**Computational Biology and Bioinformatics (CBBio) Lab**</a>.
 
 # 🔥🔥 News
 - *2026.08*： &nbsp;🎉🎉 A paper **[Zhan Xinke et al., 2026]** is accepted by **Communications Chemistry** [<span style="color:red">IF:6.9, JCR Q1</span>]
+- *2026.08*： &nbsp;🎉🎉 A paper **[Zang Jieying et al., 2026]** is accepted by **Wiley Interdisciplinary Reviews-Computational Molecular Science** [<span style="color:red">IF:10.85, JCR Q1</span>]
 - *2026.05*: &nbsp;🎉🎉 A paper **[Liu Dongqi et al., 2026]** is published by **Journal of Chemical Information and Modeling (JCIM)** [<span style="color:red">IF:6.3, JCR Q1</span>]
 - *2026.02*: &nbsp;🎉🎉 A paper **[Liu Tiantao et al., 2026]** is published by **Journal of Cheminformatics (JC)** [<span style="color:red">IF:5.7, JCR Q1</span>]
 - *2026.01*: &nbsp;🎉🎉 A paper **[Ma Xiangyu  et al., 2025]** is published by **Engineering Applications of Artificial Intelligence (EAAI)** [<span style="color:red">IF:8.0, JCR Q1</span>]
@@ -88,6 +89,7 @@ Selected publications are listed below, focusing on some research tasks: Drug-ta
 
 - Dongqi Liu. [MEGCAM: MEta-Graph and Causal Attention Method for Drug Repurposing on Heterogeneous Drug–Target–Disease Knowledge Network](https://doi.org/10.1021/acs.jcim.6c00440), <em>**Journal of Chemical Information and Modeling (JCIM)**</em>, 2026.05.
 
+- Jieying Zang. [Integrative Computational Strategies for Dynamic GPCR Landscapes: From Conformational Mechanisms to Drug Design](), <em>**Wiley Interdisciplinary Reviews-Computational Molecular Science**</em>, 2026.08.
 
 ## 2025
 - Tiantao Liu. [Data-driven revolution of enzyme catalysis from the perspective of reactions, pathways, and enzymes](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(25)00065-7), <em>**Cell Reports Physical Science (CRPS)**</em>, 2025.03.

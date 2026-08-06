@@ -22,8 +22,8 @@ I am a second-year Ph.D. student at the <a href='https://www.mpu.edu.mo/'>**Maca
 For more information about our research, please visit our group web-<a href='https://cbbio.online/'>**Computational Biology and Bioinformatics (CBBio) Lab**</a>.
 
 # 🔥🔥 News
-- *2026.08*： &nbsp;🎉🎉 A paper **[Zhan Xinke et al., 2026]** is accepted by **Communications Chemistry** [<span style="color:red">IF:6.9, JCR Q1</span>]
-- *2026.08*： &nbsp;🎉🎉 A paper **[Zang Jieying et al., 2026]** is accepted by **Wiley Interdisciplinary Reviews-Computational Molecular Science** [<span style="color:red">IF:10.85, JCR Q1</span>]
+- *2026.08*：&nbsp;🎉🎉 A paper **[Zhan Xinke et al., 2026]** is accepted by **Communications Chemistry** [<span style="color:red">IF:6.9, JCR Q1</span>]
+- *2026.08*：&nbsp;🎉🎉 A paper **[Zang Jieying et al., 2026]** is accepted by **Wiley Interdisciplinary Reviews-Computational Molecular Science** [<span style="color:red">IF:10.85, JCR Q1</span>]
 - *2026.05*: &nbsp;🎉🎉 A paper **[Liu Dongqi et al., 2026]** is published by **Journal of Chemical Information and Modeling (JCIM)** [<span style="color:red">IF:6.3, JCR Q1</span>]
 - *2026.02*: &nbsp;🎉🎉 A paper **[Liu Tiantao et al., 2026]** is published by **Journal of Cheminformatics (JC)** [<span style="color:red">IF:5.7, JCR Q1</span>]
 - *2026.01*: &nbsp;🎉🎉 A paper **[Ma Xiangyu  et al., 2025]** is published by **Engineering Applications of Artificial Intelligence (EAAI)** [<span style="color:red">IF:8.0, JCR Q1</span>]

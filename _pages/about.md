@@ -40,7 +40,7 @@ Selected publications are listed below, focusing on some research tasks: Drug-ta
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"><em>Communications Chemistry</em></div><img src='images/PepInter.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A sequence-based deep learning framework (PepInter) for protein–peptide interaction representation learning with pretrained protein language models] [<span style="color:red">**-**</span>]
+[A sequence-based deep learning framework (PepInter) for protein–peptide interaction representation learning with pretrained protein language models](https://www.nature.com/articles/s42004-026-02168-3) [<span style="color:red">**https://doi.org/10.1038/s42004-026-02168-3**</span>](https://doi.org/10.1038/s42004-026-02168-3)
 
 **Xinke Zhan**, Silong Zhai, Tiantao Liu, Shaolong Lin, Tao Bi, Bingwen Zhu, Shirley W. I. Siu
 

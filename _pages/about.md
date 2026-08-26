@@ -83,13 +83,14 @@ Selected publications are listed below, focusing on some research tasks: Drug-ta
 </div>
 
 ## 2026
-- Xiangyu MA. [CrossToGene: A bidirectional cross-modality interaction framework for predicting spatial gene expression from histopathological images](https://www.sciencedirect.com/science/article/pii/S0952197625037194),<em>**Engineering Applications of Artificial Intelligence (EAAI)**</em>, 2026.01.
-
-- Tiantao Liu. [Enzyformer: a two-stage pretrained model for enzymatic retrosynthesis](https://link.springer.com/article/10.1186/s13321-026-01164-y), <em>**Journal of Cheminformatics (JC)**</em>, 2026.02.
+- Jieying Zang. [Integrative Computational Strategies for Dynamic GPCR Landscapes: From Conformational Mechanisms to Drug Design](https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/wcms.70083), <em>**Wiley Interdisciplinary Reviews-Computational Molecular Science**</em>, 2026.08.
 
 - Dongqi Liu. [MEGCAM: MEta-Graph and Causal Attention Method for Drug Repurposing on Heterogeneous Drug–Target–Disease Knowledge Network](https://doi.org/10.1021/acs.jcim.6c00440), <em>**Journal of Chemical Information and Modeling (JCIM)**</em>, 2026.05.
 
-- Jieying Zang. [Integrative Computational Strategies for Dynamic GPCR Landscapes: From Conformational Mechanisms to Drug Design](), <em>**Wiley Interdisciplinary Reviews-Computational Molecular Science**</em>, 2026.08.
+- Tiantao Liu. [Enzyformer: a two-stage pretrained model for enzymatic retrosynthesis](https://link.springer.com/article/10.1186/s13321-026-01164-y), <em>**Journal of Cheminformatics (JC)**</em>, 2026.02.
+
+- Xiangyu MA. [CrossToGene: A bidirectional cross-modality interaction framework for predicting spatial gene expression from histopathological images](https://www.sciencedirect.com/science/article/pii/S0952197625037194),<em>**Engineering Applications of Artificial Intelligence (EAAI)**</em>, 2026.01.
+
 
 ## 2025
 - Tiantao Liu. [Data-driven revolution of enzyme catalysis from the perspective of reactions, pathways, and enzymes](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(25)00065-7), <em>**Cell Reports Physical Science (CRPS)**</em>, 2025.03.

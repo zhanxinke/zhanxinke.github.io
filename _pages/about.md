@@ -17,9 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year Ph.D. student at the <a href='https://www.mpu.edu.mo/'>**Macao Polytechnic University (MPU), Faculty of Applied Sciences,**</a> supervised by <a href='https://cbbio.online/shirleysiu/'>**Associate Professor Shirley W. I. Siu**</a>. My research focuses on protein–peptide interactions and computational peptide design. 
+I am a second-year Ph.D. student at the <a href='https://www.mpu.edu.mo/'>**Macao Polytechnic University (MPU), Faculty of Applied Sciences,**</a> supervised by <a href='https://cbbio.online/shirleysiu/'>**Associate Professor Shirley W. I. Siu**</a>. My research focuses on protein–peptide interactions and computational peptide design. I was lucky to have opportunities to collaborate with <a href='https://teacher.nwpu.edu.cn/zhuhongyou.html'>**Prof. Zhuhong You**</a>, <a href='https://teacher.nwpu.edu.cn/yuanhuang.html/'>**Prof. Yu-An Huang**</a>. 
 
 For more information about our research, please visit our group web-<a href='https://cbbio.online/'>**Computational Biology and Bioinformatics (CBBio) Lab**</a>.
+
+**Feel free to reach out to me if you have an interest in the relevant topics.**
+
 
 # 🔥🔥 News
 - *2026.08*：&nbsp;🎉🎉 A paper **[Zhan Xinke et al., 2026]** is accepted by **Communications Chemistry** [<span style="color:red">IF:6.9, JCR Q1</span>]
@@ -100,9 +103,9 @@ Selected publications are listed below, focusing on some research tasks: Drug-ta
 - *2024.08*, Half-scholarship of the Macao Polytechnic University (2024-2027).
 
 # 📖 Educations
-- *2024.09 - (now)*, Ph.D. Macao Polytechnic University, Macau, China.
-- *2018.09 - 2021.01*, M.S. Xijing University, Xi'an, Shaanxi, China.
-- *2014.09 - 2018.06*, B.S. Hubei Polytechnic University, Huangshi, Hubei, China.
+- *2024.09 - (now)*, Ph.D. in Artificial Intelligence Driven Drug Discovery (AIDD) in Macao Polytechnic University, Macau, China.
+- *2018.09 - 2021.01*, M.S. in Control Engineering in Xijing University, Xi'an, Shaanxi, China.
+- *2014.09 - 2018.06*, B.S. in Engineering in Electrical Engineering and Automation (EEA) in Hubei Polytechnic University, Huangshi, Hubei, China.
 
 
 # 💻 Fundings

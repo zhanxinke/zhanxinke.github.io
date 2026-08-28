@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year Ph.D. student at the <a href='https://www.mpu.edu.mo/'>**Macao Polytechnic University (MPU), Faculty of Applied Sciences,**</a> supervised by <a href='https://cbbio.online/shirleysiu/'>**Associate Professor Shirley W. I. Siu**</a>. My research focuses on protein–peptide interactions and computational peptide design. I was lucky to have opportunities to collaborate with <a href='https://teacher.nwpu.edu.cn/zhuhongyou.html'>**Prof. Zhuhong You**</a>, <a href='https://teacher.nwpu.edu.cn/yuanhuang.html/'>**Prof. Yu-An Huang**</a>. 
+I am a second-year Ph.D. student at the <a href='https://www.mpu.edu.mo/'>**Macao Polytechnic University (MPU), Faculty of Applied Sciences,**</a> supervised by <a href='https://cbbio.online/shirleysiu/'>**Associate Professor Shirley W. I. Siu**</a>. My research focuses on protein–peptide interactions and computational peptide design. I was lucky to have opportunities to collaborate with <a href='https://teacher.nwpu.edu.cn/zhuhongyou.html'>**Prof. Zhuhong You**</a> and <a href='https://teacher.nwpu.edu.cn/yuanhuang.html'>**Prof. Yu-An Huang**</a>. 
 
 For more information about our research, please visit our group web-<a href='https://cbbio.online/'>**Computational Biology and Bioinformatics (CBBio) Lab**</a>.
 

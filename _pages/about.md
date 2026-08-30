@@ -112,4 +112,11 @@ Selected publications are listed below, focusing on some research tasks: Drug-ta
 - *2022.01 - 2023.12*, Natural Science Basic Research Program of Shaanxi: Prediction of drug-target interactions based on complex networks.
 
 # 👨🏻‍💻 Academic Services
-- Journal Reviewer of *Briefings in Bioinformatics*/*Journal of Cheminformatics*/*Journal of King Saud University Computer and Information Sciences*/*BMC bioinformatics*
+- Journal Reviewer:
+  - *Briefings in Bioinformatics*
+  - *Journal of Cheminformatics*
+  - *Journal of King Saud University Computer and Information Sciences*
+  - *BMC bioinformatics*
+  - *Molecular Diversity*
+  - *npj Systems Biology and Applications*
+  - *BMC Genomics*

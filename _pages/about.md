@@ -25,6 +25,7 @@ For more information about our research, please visit our group web-<a href='htt
 
 
 # 🔥🔥 News
+- *2026.09*：&nbsp;🎉🎉 A paper **[Shaolong Lin et al., 2026]** is accepted by **Chemical Science** [<span style="color:red">IF:8.1, JCR Q1</span>]
 - *2026.08*：&nbsp;🎉🎉 A paper **[Zhan Xinke et al., 2026]** is accepted by **Communications Chemistry** [<span style="color:red">IF:6.9, JCR Q1</span>]
 - *2026.08*：&nbsp;🎉🎉 A paper **[Zang Jieying et al., 2026]** is accepted by **Wiley Interdisciplinary Reviews-Computational Molecular Science** [<span style="color:red">IF:10.85, JCR Q1</span>]
 - *2026.05*: &nbsp;🎉🎉 A paper **[Liu Dongqi et al., 2026]** is published by **Journal of Chemical Information and Modeling (JCIM)** [<span style="color:red">IF:6.3, JCR Q1</span>]
@@ -86,6 +87,8 @@ Selected publications are listed below, focusing on some research tasks: Drug-ta
 </div>
 
 ## 2026
+- Shaolong Lin. 
+
 - Jieying Zang. [Integrative Computational Strategies for Dynamic GPCR Landscapes: From Conformational Mechanisms to Drug Design](https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/wcms.70083), <em>**Wiley Interdisciplinary Reviews-Computational Molecular Science**</em>, 2026.08.
 
 - Dongqi Liu. [MEGCAM: MEta-Graph and Causal Attention Method for Drug Repurposing on Heterogeneous Drug–Target–Disease Knowledge Network](https://doi.org/10.1021/acs.jcim.6c00440), <em>**Journal of Chemical Information and Modeling (JCIM)**</em>, 2026.05.

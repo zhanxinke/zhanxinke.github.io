@@ -25,12 +25,18 @@ For more information about our research, please visit our group web-<a href='htt
 
 
 # 🔥🔥 News
+
+## 2026
+
 - *2026.09*：&nbsp;🎉🎉 A paper **[Shaolong Lin et al., 2026]** is accepted by **Chemical Science** [<span style="color:red">IF:8.1, JCR Q1</span>]
 - *2026.08*：&nbsp;🎉🎉 A paper **[Zhan Xinke et al., 2026]** is accepted by **Communications Chemistry** [<span style="color:red">IF:6.9, JCR Q1</span>]
 - *2026.08*：&nbsp;🎉🎉 A paper **[Zang Jieying et al., 2026]** is accepted by **Wiley Interdisciplinary Reviews-Computational Molecular Science** [<span style="color:red">IF:10.85, JCR Q1</span>]
 - *2026.05*: &nbsp;🎉🎉 A paper **[Liu Dongqi et al., 2026]** is published by **Journal of Chemical Information and Modeling (JCIM)** [<span style="color:red">IF:6.3, JCR Q1</span>]
 - *2026.02*: &nbsp;🎉🎉 A paper **[Liu Tiantao et al., 2026]** is published by **Journal of Cheminformatics (JC)** [<span style="color:red">IF:5.7, JCR Q1</span>]
 - *2026.01*: &nbsp;🎉🎉 A paper **[Ma Xiangyu  et al., 2025]** is published by **Engineering Applications of Artificial Intelligence (EAAI)** [<span style="color:red">IF:8.0, JCR Q1</span>]
+
+## 2025
+
 - *2025.10*: &nbsp;🎉🎉 A paper is submitted to **ChemRxiv**.
 - *2025.08*: &nbsp;🎉🎉 A paper **[Zhan Xinke  et al., 2025]** is accepted by **Digital Discovery** [<span style="color:red">IF:7.1, JCR Q1</span>]
 - *2025.07*: &nbsp;🎉🎉 A conference paper is accepted by **the 2025 International Conference on Intelligent Computing (ICIC)** [<span style="color:red">CCF-C</span>]
@@ -87,7 +93,7 @@ Selected publications are listed below, focusing on some research tasks: Drug-ta
 </div>
 
 ## 2026
-- Shaolong Lin. 
+- Shaolong Lin. Task-adaptive multimodal molecular representations forstructure-sensitive property prediction, <em>**Chemical Science**</em>, 2026.09.
 
 - Jieying Zang. [Integrative Computational Strategies for Dynamic GPCR Landscapes: From Conformational Mechanisms to Drug Design](https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/wcms.70083), <em>**Wiley Interdisciplinary Reviews-Computational Molecular Science**</em>, 2026.08.
 
